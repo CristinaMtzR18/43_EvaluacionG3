@@ -1,0 +1,17 @@
+body{
+	background-color: #FF90F5;
+	color: #FF4f66;
+	padding: 5%;
+}
+
+header{
+	background-image: url("../ico/background2.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 400px;
+	color: #760445;
+}
+
+.respuesta{
+	color: green;
+}
